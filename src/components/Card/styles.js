@@ -17,11 +17,13 @@ export const Container = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
+  border-radius:5px;
 `;
 
 export const SegundoContainer = styled.div`
   background-color: #ffffff;
   display: flex;
+  border-radius:5px;
   flex-direction: column;
   gap: 9px;
   height: 185px;
